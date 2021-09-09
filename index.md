@@ -1,5 +1,7 @@
-Here you can say lots of fun things about your site.
+Hello.
 
-Maybe say a some things about yourself.
+I'm Saatvik. Trying to build cool data stuff. I consider myself a plumber of Data Science/BI/Machine Learning.
 
-Or maybe what you plan to blog about.
+I enjoy working on anything data, following a lot of sports, running and gaming.
+
+This is my first shot at writing, mostly scribbling some thoughts around aforementioned topics.
